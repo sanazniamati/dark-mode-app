@@ -4,7 +4,7 @@
 </p>
 
 ## This is a simple dark/light theme to NextJs 13 using the `next-themes` package. We'll also learn how to use React context in Server components.
-You can view a live demo of the project here:
+
 
 
 ## 😃 Feature:
